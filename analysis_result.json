@@ -1,0 +1,30 @@
+[
+    {
+        "ip": "1.1.1.1",
+        "username": "bot_01",
+        "connection_count": 100,
+        "std_deviation": 4.9997449174806405,
+        "status": "suspicious"
+    },
+    {
+        "ip": "3.3.3.3",
+        "username": "smart_01",
+        "connection_count": 50,
+        "std_deviation": 2.8201172451414336,
+        "status": "suspicious"
+    },
+    {
+        "ip": "4.4.4.4",
+        "username": "slow_bot",
+        "connection_count": 50,
+        "std_deviation": 2.8593300356436306,
+        "status": "suspicious"
+    },
+    {
+        "ip": "5.5.5.5",
+        "username": "user_kim",
+        "connection_count": 100,
+        "std_deviation": 2384.2106767319947,
+        "status": "allow"
+    }
+]
